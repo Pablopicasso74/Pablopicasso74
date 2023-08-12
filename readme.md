@@ -1,1 +1,1 @@
-Tester's path
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D3FF7&background=FFDC3900&center=true&vCenter=true&width=435&lines=Hi!+I'm+Pavel.+Nice+to+meet+you!;It's+never+too+late+to+learn.;The+road+will+be+mastered+by+the+walking." alt="Typing SVG" /></a>
